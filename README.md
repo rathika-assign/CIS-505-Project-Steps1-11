@@ -50,7 +50,14 @@ Constraint Tests
 - Handles conflicting boards gracefully.
 - Terminates correctly under iteration limits.
 
-▶️ How to Run
+▶️ How to Run all python files:
+python N_Queens_Puzzle.py
+python Backtrack_Queen_Puzzle.py
+python Forward_checking_NQueens.py
+python NQueen_Backtrack_Board.py
+python NQueen_ForwardChecking_Board.py
+
+Now run by:
 python N_Queens_Puzzle.py
 
 This will:
